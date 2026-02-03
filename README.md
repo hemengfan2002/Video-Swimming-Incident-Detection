@@ -7,7 +7,7 @@ Official PyTorch implementation of
 
 ## Introduction
 
-This repository contains the official implementation of our work on video-based swimming incident detection**, which aims to detect critical swimming incidents (e.g., struggling, floating, and sinking) in indoor swimming pools using surveillance cameras in a contactless manner.
+This repository contains the official implementation of our work on video-based swimming incident detection, which aims to detect critical swimming incidents (e.g., struggling, floating, and sinking) in indoor swimming pools using surveillance cameras in a contactless manner.
 
 The proposed method is developed based on recent advances in spatio-temporal action detection, and is evaluated on a newly collected benchmark dataset, **SwimID**, which focuses on realistic swimming scenarios and safety-critical events.
 
