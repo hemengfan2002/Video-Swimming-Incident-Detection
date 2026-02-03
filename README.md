@@ -7,12 +7,12 @@ Official PyTorch implementation of
 
 ## Introduction
 
-This repository contains the official implementation of our work on **video-based swimming incident detection**, which aims to detect critical swimming incidents (e.g., struggling, floating, and sinking) in indoor swimming pools using surveillance cameras in a **contactless** manner.
+This repository contains the official implementation of our work on video-based swimming incident detection**, which aims to detect critical swimming incidents (e.g., struggling, floating, and sinking) in indoor swimming pools using surveillance cameras in a contactless manner.
 
-The proposed method is developed based on recent advances in **spatio-temporal action detection**, and is evaluated on a newly collected benchmark dataset, **SwimID**, which focuses on realistic swimming scenarios and safety-critical events.
+The proposed method is developed based on recent advances in spatio-temporal action detection, and is evaluated on a newly collected benchmark dataset, **SwimID**, which focuses on realistic swimming scenarios and safety-critical events.
 
 **Note:**  
-The source code will be **publicly released after the acceptance of the associated paper**.
+The source code will be publicly released after the acceptance of the associated paper.
 
 ---
 
@@ -26,7 +26,7 @@ The **SwimID** dataset is designed for spatio-temporal swimming incident detecti
 - Multiple categories of safety-critical swimming incidents
 - Dense per-frame annotations with bounding boxes, action labels, and tracking IDs
 
-Due to privacy and safety considerations, the dataset is **not publicly downloadable** without authorization.
+Due to privacy and safety considerations, the dataset is not publicly downloadable without authorization.
 
 ---
 
@@ -34,10 +34,9 @@ Due to privacy and safety considerations, the dataset is **not publicly download
 
 To download the **SwimID dataset**, please follow the steps below:
 
-1. **Sign the Release Agreement**
-2. **Email the signed agreement to:**
-
-   **Mengfan He**  
+1. Sign the Release Agreement
+2. Email the signed agreement to:
+  
    *mengfanhe@nwafu.edu.cn*
 
 By sending the application, you are agreeing and acknowledging that you have read and understood the terms stated in the Release Agreement.
@@ -46,7 +45,7 @@ We will reply with:
 - The dataset download link
 - Corresponding usage guidelines  
 
-**right after we receive your request**.
+right after we receive your request.
 
 ---
 
